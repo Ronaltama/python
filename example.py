@@ -2,4 +2,7 @@ a= 1
 print (a)
 
 b= 2
-print (a)
+print (b)
+
+c=4
+print (c)
